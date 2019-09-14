@@ -1,0 +1,25 @@
+{
+  "name": "wirecrawler",
+  "version": "0.1.0",
+  "description": "Wireframe flows within the browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "`"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adekunleoduye/wirecrawler"
+  },
+  "bugs": {
+    "url": "https://github.com/adekunleoduye/wirecrawler/issues"
+  },
+  "homepage": "https://github.com/adekunleoduye/wirecrawler#readme",
+  "keywords": [
+    "design",
+    "wireframe",
+    "browswer",
+    "prototype"
+  ],
+  "author": "Adekunle Oduye",
+  "license": "ISC"
+}
